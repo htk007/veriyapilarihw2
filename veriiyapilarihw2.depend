@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1444568014 source:c:\users\hasan\desktop\veriiyapilarihw2\array.c
+	<stdio.h>
+	<Array.h>
+
+1444568042 c:\users\hasan\desktop\veriiyapilarihw2\\array.h
+
+1444565932 source:c:\users\hasan\desktop\veriiyapilarihw2\deneme.c
+
+1444568026 source:c:\users\hasan\desktop\veriiyapilarihw2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<Array.h>
+
